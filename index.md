@@ -4,12 +4,13 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Markdown 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block![w: ellie and cheese puff](https://user-images.githubusercontent.com/89716104/131237113-3dd14add-4975-4cf3-b035-a5707efa6444.jpg)
+
 
 # Header 1
 ## Header 2
