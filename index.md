@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+# Sophie McAfee's First CS193 Homework
+
+- informative class that helps with others!!!
+-  instructors care about not adding stress to our lives
+- no exams :)
+- guidelines for (at least this) homework are SUPER CLEAR
+
+# Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
